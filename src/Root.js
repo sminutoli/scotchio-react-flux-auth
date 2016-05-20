@@ -5,7 +5,7 @@ import { Router, Route, IndexRoute } from 'react-router';
 import Index from './components/Index';
 import ContactDetail from './components/ContactDetail';
 
-import App from './components/App';
+import App from './components/Main';
 
 class Root extends Component {
 
