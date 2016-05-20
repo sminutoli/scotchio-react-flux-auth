@@ -1,5 +1,5 @@
 import React from 'react';
 
-const IndexComponent = () => <div>Index detail component</div>;
+const IndexComponent = () => <div><h2>Index detail component</h2></div>;
 
 export default IndexComponent;
