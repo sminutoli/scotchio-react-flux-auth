@@ -1,5 +1,6 @@
 import React from 'react';
+import Contacts from './Contacts';
 
-const SidebarComponent = () => <aside><h1>Sidebar component</h1></aside>;
+const SidebarComponent = () => <Contacts />;
 
 export default SidebarComponent;
